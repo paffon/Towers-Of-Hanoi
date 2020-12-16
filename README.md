@@ -5,10 +5,9 @@ Simple solver for the classic "Towers Of Hanoi" puzzle
 
 [This project is based on this Computerphile Video](https://www.youtube.com/watch?v=8lhxIOAfDss&ab_channel=Computerphile)
 
-1. Run the main function in main.py.
-2. Quick by typing 'n', continue by typing anything else and hit Enter.
-3. Input a number to set rings on the first rod and press Enter.
-4. Press Enter to run the solver.
+### How to use?
+
+Download the folder, run main.py and follow the instrutions.
 
 ### Example:
 
