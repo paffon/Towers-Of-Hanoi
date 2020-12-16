@@ -3,7 +3,7 @@ Simple solver for the classic "Towers Of Hanoi" puzzle
 
 ![Illustration](illustration.png)
 
-[Read about Towers Of Hanoi on Wikipedie](https://en.wikipedia.org/wiki/Tower_of_Hanoi)
+[Read about Towers Of Hanoi on Wikipedia](https://en.wikipedia.org/wiki/Tower_of_Hanoi)
 
 [This project is based on this Computerphile Video](https://www.youtube.com/watch?v=8lhxIOAfDss&ab_channel=Computerphile)
 
